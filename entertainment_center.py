@@ -4,6 +4,7 @@ import fresh_tomatoes
 
 
 fresh_tomatoes.open_movies_page(movies=[
+    # create a list of 6 Movie instances to populate the the page with
     Movie(
         "Misery",
         "A novellist is rescued from a car accident by a fan.",
